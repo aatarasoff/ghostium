@@ -54,7 +54,7 @@ body {
 
 .wrapper {
   position: absolute;
-  left: 30%;
+  left: 40%;
   right: 0;
   top: 0;
   bottom: 0;
@@ -75,8 +75,8 @@ body {
 
 .wrapper-container {
   position: relative;
-  padding: 40px 10% 40px 185px;
-  max-width: 910px;
+  padding: 10%;
+  max-width: 100%;
 
   @include breakpoint(medium) {
     padding: 40px 10%;
